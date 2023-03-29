@@ -1,1 +1,1 @@
-# hand-recognition
+# PRO-C108-Student-Boilerplate
